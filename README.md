@@ -11,3 +11,6 @@ Wat had ik nog willen doen:
 1. De andere pagina's maken
 2. De hints ook echt op tijd laten opkomen ipv dmv klik zoals nu.
 3. Meer interacties in het prototype bouwen. Zoals het verwijderen van meldingen.
+
+Progressie:
+Tijdens dit vak was ik eerst van plan om mijn prototype in Pixate te gaan maken. 
